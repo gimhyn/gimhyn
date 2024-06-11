@@ -1,7 +1,5 @@
 # 안뇽안뇽~~~나는 GimHyn!
 
-![Profile Banner](https://source.unsplash.com/random/800x200?tech)
-
 ## 🚀 About Me
 비전공자의 우당탕탕 성장기
 
