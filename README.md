@@ -22,6 +22,9 @@
 ![gimhyn's GitHub stats](https://github-readme-stats.vercel.app/api?username=gimhyn&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gimhyn&layout=compact&theme=radical)
 
+## 🏆 Solved.ac Profile
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hayeonful)](https://solved.ac/hayeonful/)
+
 ## 🔗 Connect with Me
 쉿~ 비밀이야!
 
