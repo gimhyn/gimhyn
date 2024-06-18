@@ -20,7 +20,7 @@
 
 ## 📈 GitHub Stats
 ![gimhyn's GitHub stats](https://github-readme-stats.vercel.app/api?username=gimhyn&show_icons=true&theme=cobalt)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gimhyn&layout=compact&theme=gruvbox)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gimhyn&layout=compact&theme=cobalt)
 
 ## 🏆 Solved.ac Profile
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hayeonful)](https://solved.ac/hayeonful/)
