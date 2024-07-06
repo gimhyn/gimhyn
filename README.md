@@ -34,11 +34,9 @@
 - 💡 새로운 언어 배우기
 
 ## 📂 Repositories
-- [🐙 백준은 대머리](https://github.com/gimhyn/BOJ) 
+- [🐙 백준은 대머리](https://github.com/gimhyn/algorithm) 
 - [🦖 파키케팔로사우르스: 프론트 박치기 기록](https://github.com/gimhyn/FE) 
 - [💻 CS공부하기](https://github.com/gimhyn/CSstudy) 
-- [SWEA: 몸이 건강하면 💪🏼 머리가 고생 안하죠? 😜](https://github.com/gimhyn/SWEA)
-
 ---
 
 ⭐️ From [gimhyn](https://github.com/gimhyn)
