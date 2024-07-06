@@ -34,10 +34,10 @@
 - 💡 새로운 언어 배우기
 
 ## 📂 Repositories
-- [BOJ](https://github.com/gimhyn/BOJ) / 🐙 백준은 대머리
-- [FE](https://github.com/gimhyn/FE) / 🦖 파키케팔로사우르스: 프론트 박치기 기록
-- [CSstudy](https://github.com/gimhyn/CSstudy) / 💻 CS공부하기
-- [SWEA](https://github.com/gimhyn/SWEA) / 몸이 건강하면 💪🏼 머리가 고생 안하죠? 😜
+- [🐙 백준은 대머리](https://github.com/gimhyn/BOJ) 
+- [🦖 파키케팔로사우르스: 프론트 박치기 기록](https://github.com/gimhyn/FE) 
+- [💻 CS공부하기](https://github.com/gimhyn/CSstudy) 
+- [SWEA: 몸이 건강하면 💪🏼 머리가 고생 안하죠? 😜](https://github.com/gimhyn/SWEA)
 
 ---
 
