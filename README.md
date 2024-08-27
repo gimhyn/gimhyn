@@ -4,7 +4,7 @@
 비전공자의 우당탕탕 성장기
 
 ## 🔥 PJTs
-**옷짱: OZZ**
+### **옷짱: OZZ**
   > [SSAFY 11기 공통 우수 프로젝트](https://github.com/doongyeop/OZZ)
 
 ## 📈 GitHub Stats
