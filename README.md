@@ -1,11 +1,11 @@
 # 안뇽안뇽~~~나는 GimHyn!
 
-## 🚀 About Me
+## 😎 About Me
 비전공자의 우당탕탕 성장기
 
-## 😎PJTs
-### **옷짱: OZZ**
-  | [SSAFY 11기 공통 우수 프로젝트](https://github.com/doongyeop/OZZ)
+## 🔥 PJTs
+**옷짱: OZZ**
+  > [SSAFY 11기 공통 우수 프로젝트](https://github.com/doongyeop/OZZ)
 
 ## 📈 GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gimhyn&layout=compact&theme=cobalt)
@@ -14,9 +14,9 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hayeonful)](https://solved.ac/hayeonful/)
 
 ## 🌱 What I’m Up To
-- 🦖 React 박치기
-- 📖 CS 공부하기
-- 💡 새로운 언어 배우기
+- 🦖 프론트엔드 박치기
+- 📖 알고리즘 재활
+- 💡 and so on...
 
 ## 📂 Repositories
 - [🐙 백준은 대머리](https://github.com/gimhyn/algorithm) 
