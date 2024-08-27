@@ -4,7 +4,8 @@
 비전공자의 우당탕탕 성장기
 
 ## 😎PJTs
-[SSAFY 11기 공통 우수 프로젝트 - **옷짱:OZZ**](https://github.com/doongyeop/OZZ)
+### **옷짱: OZZ**
+  | [SSAFY 11기 공통 우수 프로젝트](https://github.com/doongyeop/OZZ)
 
 ## 📈 GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gimhyn&layout=compact&theme=cobalt)
