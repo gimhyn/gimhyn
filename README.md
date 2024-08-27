@@ -5,7 +5,7 @@
 
 ## 🔥 PJTs
 ### **옷짱: OZZ**
-  > [SSAFY 11기 공통 우수 프로젝트](https://github.com/doongyeop/OZZ)
+    > [SSAFY 11기 공통 우수 프로젝트 - AI 기반 맞춤형 스타일링 애플리케이션 OZZ](https://github.com/doongyeop/OZZ)
 
 ## 📈 GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gimhyn&layout=compact&theme=cobalt)
