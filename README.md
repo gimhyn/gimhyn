@@ -1,3 +1,4 @@
+## 안뇽안뇽~ 나는 GIMHYN
 ## 🔥 PJTs
 ### **Front-End**
 > <span> **AI 기반 맞춤형 스타일링 애플리케이션 - 옷짱:OZZ**</span><br/>
@@ -25,8 +26,8 @@
 
 ## 📂 Repositories
 - [💻 CS공부하기](https://github.com/gimhyn/CSstudy) 
-- [🐙 알고리즘 정리](https://github.com/gimhyn/algorithm) 
-- [🦖 프론트엔드 공부하기](https://github.com/gimhyn/FE) 
+- [🐙 백준은 대머리](https://github.com/gimhyn/algorithm) 
+- [🦖 파키케팔로사우르스: 프론트엔드 박치기 기록](https://github.com/gimhyn/FE) 
 
 ---
 
